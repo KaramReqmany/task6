@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    overflow-x:hidden ;
+}
+
+.light-gray{
+    background-color: rgb(251, 246, 244);
+}
+
+
+.featured-books{
+    width: 100vw;
+}
+.best-selling{
+    background-color: rgb(251, 246, 244) ;
+}
+.small-font{
+    font-size: small;
+}
+.popular .active{
+    color: orange !important;
+    
+}
+.fieldset{
+    border-top: 1px;
+    border-color: black;
+}
+.navbar .active{
+    color: orange !important;
+}
